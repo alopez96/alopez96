@@ -1,5 +1,7 @@
 ## Hi there, my name is Arturo Lopez. 👋
 
+###### I am Mexican 🇲🇽 and currently reside in the Bay Area, Northern California. I enjoy staying active and by doing outdoor things with friends. My favorite sport is Soccer.
+
 ###### I work at Accenture as a Technology Analyst.
 
 ###### I also do Web Consulting. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
