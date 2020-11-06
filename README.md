@@ -5,9 +5,9 @@
 
 ###### I work at Accenture as a Technology Analyst.
 
-###### I also do Web Consulting. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
+###### I also do Web Consulting on the side. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
 
-###### My development for web usually consists of Javascript, HTML and CSS. I use Adobe Xd, Illustrator, and Figma. Recently, I have started learning Liquid, Shopify's Theme Templating Language.
+###### For my web development, I usually use Javascript, HTML and CSS. For some front end apps, I also use React. I design using Adobe Xd, Illustrator, and Figma. Recently, I have started learning Liquid, Shopify's Theme Templating Language.
 
 ###### At Accenture, I'm currently working with Python, Spark, SQL, and AWS.
 
