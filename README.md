@@ -1,14 +1,12 @@
 ## Hi there, my name is Arturo Lopez. 👋
 
-###### I am Mexican 🇲🇽 and currently reside in the Bay Area, Northern California. I enjoy staying active and by doing outdoor things with friends. My favorite sport is Soccer.
+###### I am Mexican 🇲🇽 and currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer.
 
 ###### I work at Accenture as a Technology Analyst.
 
 ###### I also do Web Consulting. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
 
-###### My development for web usually consists of Javascript, HTML and CSS.
-
-###### Recently, I have started learning Liquid, Shopify's Theme Templating Language.
+###### My development for web usually consists of Javascript, HTML and CSS. I use Adobe Xd, Illustrator, and Figma. Recently, I have started learning Liquid, Shopify's Theme Templating Language.
 
 ###### At Accenture, I'm currently working with Python, Spark, SQL, and AWS.
 
