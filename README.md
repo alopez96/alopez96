@@ -1,6 +1,7 @@
-## Hi there, my name is Arturo Lopez. 👋
+## Hi there, I am Arturo Lopez. 👋🏾
+### Mexican 🇲🇽 | Software Developer 👨🏾‍💻 | Egnineer | Consultant
 
-###### I am Mexican 🇲🇽 and currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer.
+###### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
 ###### I work at Accenture as a Technology Analyst.
 
