@@ -1,5 +1,5 @@
 ## Hi there, I am Arturo Lopez. 👋🏾
-### Mexican 🇲🇽 | Software Developer 👨🏾‍💻 | Egnineer | Consultant
+### Mexican 🇲🇽 | Software Developer 👨🏾‍💻 | Engineer | Consultant
 
 ###### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
