@@ -2,9 +2,9 @@
 
 ###### I work at Accenture as a Technology Analyst.
 
-###### I also do Web Consulting. I help clients get a website for their business. My services include Full Stack Development, Responsive Web Design, Logo Design and Visual Branding.
+###### I also do Web Consulting. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
 
-###### My development usually consists of Javascript, HTML and CSS.
+###### My development for web usually consists of Javascript, HTML and CSS.
 
 ###### Recently, I have started learning Liquid, Shopify's Theme Templating Language.
 
