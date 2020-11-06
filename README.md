@@ -1,6 +1,6 @@
 ## Hi there, my name is Arturo Lopez. 👋
 
-##### I work at Accenture as a Technology Analyst.
+###### I work at Accenture as a Technology Analyst.
 
 ###### I also do Web Consulting. I help clients get a website for their business. My services include Full Stack Development, Responsive Web Design, Logo Design and Visual Branding.
 
