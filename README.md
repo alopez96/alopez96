@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <!-- https://www.linkedin.com/in/rturolopez/ - automatic!
 [LinkedIn](https://www.linkedin.com/in/rturolopez/) -->
 
-###### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/).
+##### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/).
