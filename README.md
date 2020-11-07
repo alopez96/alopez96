@@ -1,9 +1,9 @@
 ## Hi there, I am Arturo Lopez. 👋🏾
 ### Mexican 🇲🇽 | Software Developer 👨🏾‍💻 | Engineer | Consultant
 
-###### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
+#### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
-###### I work at Accenture as a Technology Analyst.
+##### I work at Accenture as a Technology Analyst.
 
 ###### I also do Web Consulting on the side. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
 
