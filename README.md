@@ -7,7 +7,7 @@
 
 #### I also do Web Consulting on the side. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
 
-#### For my web development, I usually use Javascript, HTML and CSS. For some front end apps, I also use React. I design using Adobe Xd, Illustrator, and Figma. Recently, I have started learning Liquid, Shopify's Theme Templating Language.
+#### For my web development, I usually use Javascript, HTML, and CSS. For some front end apps, I also use React. On the backend, I use Node and Express. I design using Adobe Xd, Illustrator, and Figma. Recently, I have experience with Liquid, Shopify's Theme Templating Language.
 
 #### At Accenture, I'm currently working with Python, Spark, SQL, and AWS.
 
