@@ -1,5 +1,5 @@
 ## Hi there, I am Arturo Lopez. 👋🏾
-### 🇲🇽 Latino Software Developer 👨🏾‍💻 | Engineer | Consultant
+### 🇲🇽 Latino Software Developer 👨🏾‍💻 | Web Designer | Technology Analyst at Accenture
 
 #### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
