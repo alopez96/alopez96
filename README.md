@@ -1,5 +1,5 @@
 ## Hi there, I'm Arturo Lopez. 👋🏾
-### 🇲🇽 Latino In Tech | Tech Analyst @ Accenture 👨🏾‍💻 | | 💻 Software & Web Developer
+### 🇲🇽 Latino In Tech | Tech Analyst @ Accenture 👨🏾‍💻 | 💻 Software & Web Developer
 
 #### I work at Accenture as a Technology Analyst. Currently working on a data migration project to AWS cloud and developing code with Python, Spark, and SQL.
 
