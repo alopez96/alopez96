@@ -9,7 +9,7 @@
 
 #### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo.creates/).
 
-#### Fun fact: I have a Computer Science degree and 5+ years of working on customer service, restuarants, and construction.
+#### Fun fact: I have a Computer Science degree and 5+ years of working on customer service, restuarants, and construction. 🍔👷🏽‍♂️
 
 <!--
 **alopez96/alopez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
