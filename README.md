@@ -1,15 +1,15 @@
-## Hi there, I am Arturo Lopez. 👋🏾
-### Mexican 🇲🇽 | Software Developer 👨🏾‍💻 | Engineer | Consultant
+## Hi there, I'm Arturo Lopez. 👋🏾
+### 🇲🇽 Latino In Tech | Tech Analyst @ Accenture 👨🏾‍💻 | | Software | Web Developer 💻
+
+#### I work at Accenture as a Technology Analyst. Currently working on a data migration project to AWS cloud and developing code with Python, Spark, and SQL.
+
+#### I also do Web Consulting, helping small businesses launch or revamp their website. My Web projects, are usually built with JavaScript, React, HMTL, and CSS. My mobile dev projects are in React Native.
 
 #### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
-#### I work at Accenture as a Technology Analyst.
+#### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo_creates/).
 
-#### I also do Web Consulting on the side. I help clients showcase their product or service online. My services include Full Stack Development, Responsive Web Design, and E-Commerce sites.
-
-#### For my web development, I usually use Javascript, HTML and CSS. For some front end apps, I also use React. I design using Adobe Xd, Illustrator, and Figma. Recently, I have started learning Liquid, Shopify's Theme Templating Language.
-
-#### At Accenture, I'm currently working with Python, Spark, SQL, and AWS.
+#### Fun fact: I have a Computer Science degree and 5+ years of working on customer service, restuarants, and construction.
 
 <!--
 **alopez96/alopez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Links to your social media accounts -->
-
-<!-- https://www.linkedin.com/in/rturolopez/ - automatic!
-[LinkedIn](https://www.linkedin.com/in/rturolopez/) -->
-
-#### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/).
