@@ -7,7 +7,7 @@
 
 #### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
 
-#### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo_creates/).
+#### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo.creates/).
 
 #### Fun fact: I have a Computer Science degree and 5+ years of working on customer service, restuarants, and construction.
 
