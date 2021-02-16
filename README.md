@@ -6,7 +6,7 @@
 #### I also do Web Consulting, helping small businesses launch or revamp their website. My Web projects, are usually built with JavaScript, React, HMTL, CSS, Node, and Express. My mobile dev projects are in React Native.
 
 #### I currently reside in the Bay Area, Northern California.
-#### My hobbies are: reading, front end development, hiking , soccer ⚽️ 
+#### My hobbies are: reading, front end development, hiking, and soccer ⚽️.
 
 #### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo.creates/).
 
