@@ -1,11 +1,12 @@
 ## Hi there, I'm Arturo Lopez. 👋🏾
-### 🇲🇽 Latino In Tech | Tech Analyst @ Accenture 👨🏾‍💻 | 💻 Software & Web Developer
+### 🇲🇽 Latino In Tech | 👨🏾‍💻 Tech Analyst @ Accenture | 💻 Software & Web Developer
 
 #### I work at Accenture as a Technology Analyst. Currently working on a data migration project to AWS cloud and developing code with Python, Spark, and SQL.
 
 #### I also do Web Consulting, helping small businesses launch or revamp their website. My Web projects, are usually built with JavaScript, React, HMTL, CSS, Node, and Express. My mobile dev projects are in React Native.
 
-#### I currently reside in the Bay Area, Northern California. I enjoy staying active by doing outdoor things with friends - going on hikes, playing soccer ⚽.
+#### I currently reside in the Bay Area, Northern California.
+#### My hobbies are: reading, front end development, hiking , soccer ⚽️ 
 
 #### You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo.creates/).
 
