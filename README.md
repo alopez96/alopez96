@@ -7,7 +7,7 @@
 
 #### I currently reside in the Bay Area, Northern California. My hobbies are: reading, front end development, hiking, and soccer ⚽️.
 
-#### I write articles on [Medium](https://arturocreates.medium.com/), where I share things I've learned. You can find me on [LinkedIn](https://www.linkedin.com/in/rturolopez/) and [Instagram](https://www.instagram.com/arturo.creates/).
+#### I write articles on [Medium](https://arturocreates.medium.com/), where I share things I've learned. Stay connected with me on [Instagram](https://www.instagram.com/arturo.creates/).
 
 <!--
 **alopez96/alopez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
